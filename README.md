@@ -2,7 +2,7 @@
 Copy from https://github.com/yenchenlin/nerf-pytorch and train on mydata
 
 ### Dataset
-We use a dataset named mydata stored in the data/ directory. The data is randomly split into a training set (80%) and a testing set (20%) to ensure fair evaluation.
+We use a dataset named mydata stored in the data/nerf_synthetic directory. The data is randomly split into a training set (80%) and a testing set (20%) to ensure fair evaluation.
 
 ### Quick Start
 
